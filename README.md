@@ -46,7 +46,7 @@
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" height="30" alt="streamlit logo"  />
+  <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" height="35" alt="streamlit logo"  />
 </div>
 
 ###
