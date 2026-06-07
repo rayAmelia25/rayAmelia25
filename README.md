@@ -1,4 +1,4 @@
-<h3 align="center">Olá, eu sou a Rayssa Amélia!</h3>
+<h2 align="center">Olá, eu sou a Rayssa Amélia!</h3>
 
 ###
 
@@ -25,8 +25,6 @@
   <a href="https://www.linkedin.com/in/rayssa-amelia" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40"    alt="linkedin logo" />
   </a>
-
-  
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
 </div>
@@ -40,6 +38,7 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
+  <img alt="Power BI" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Power BI.svg"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
