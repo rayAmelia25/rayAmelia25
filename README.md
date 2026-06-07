@@ -38,7 +38,7 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img alt="Power BI" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Power BI.svg"> 
+  <img alt="Power BI" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Power BI.svg"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
