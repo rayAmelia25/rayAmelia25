@@ -46,14 +46,7 @@
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img src="[https://skillicons.dev/icons?i=html](https://streamlit.io/images/brand/streamlit-mark-color.png)" height="40" alt="html5 logo"  />
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rayAmelia25/rayAmelia25/pacman-output/breakout-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rayAmelia25/rayAmelia25/pacman-output/breakout-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rayAmelia25/rayAmelia25/pacman-output/breakout-contribution-graph.svg">
-</picture>
 
 ###
