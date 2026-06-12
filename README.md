@@ -18,16 +18,20 @@
 
 <h4 align="left">Contato</h4>
 
-###
 
-<div align="left">
-  
-  <a href="https://www.linkedin.com/in/rayssa-amelia" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40"    alt="linkedin logo" />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-</div>
+## 📫 Contato
+
+<p align="center">
+  <a href="mailto:rayssa,biserra2208@gmail.com"><strong>Email</strong></a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https:\\www.linkedin.com/in/rayssa-amelia"><strong>LinkedIn</strong></a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://github.com/seu-usuario"><strong>GitHub</strong></a>
+</p>
+
+
+
+
 
 ###
 
